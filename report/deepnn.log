@@ -1,0 +1,759 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  13 SEP 2017 17:08
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**deepnn.tex
+(./deepnn.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2016/04/23 3.9r The Babel package
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2012/08/20 v3.3p English support from the babel system
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2016/04/23 3.9r Babel common definitions
+\babel@savecnt=\count87
+\U@D=\dimen103
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/03/10 v2.15b AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks14
+\ex@=\dimen104
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen105
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks15
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks16
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip46
+\f@ncyO@elh=\skip47
+\f@ncyO@erh=\skip48
+\f@ncyO@olh=\skip49
+\f@ncyO@orh=\skip50
+\f@ncyO@elf=\skip51
+\f@ncyO@erf=\skip52
+\f@ncyO@olf=\skip53
+\f@ncyO@orf=\skip54
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/lastpage/lastpage.sty
+Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/fancyhdr/extramarks.sty
+\@temptokenb=\toks19
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/05/09 v1.1c Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 144.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count100
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2015/12/30 v3.0k Driver-dependent file (DPC,SPQR)
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 96.
+)
+\Gin@req@height=\dimen113
+\Gin@req@width=\dimen114
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2016/02/20 v1.1-142 Sub-captions (AR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen115
+\captionmargin@=\dimen116
+\captionwidth=\dimen117
+\caption@tempdima=\dimen118
+\caption@indent=\dimen119
+\caption@parindent=\dimen120
+\caption@hangindent=\dimen121
+)
+\c@ContinuedFloat=\count101
+)
+\c@subfigure=\count102
+\c@subtable=\count103
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count104
+\lst@gtempboxa=\box28
+\lst@token=\toks21
+\lst@length=\count105
+\lst@currlwidth=\dimen122
+\lst@column=\count106
+\lst@pos=\count107
+\lst@lostspace=\dimen123
+\lst@width=\dimen124
+\lst@newlines=\count108
+\lst@lineno=\count109
+\lst@maxwidth=\dimen125
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count110
+\lst@skipnumbers=\count111
+\lst@framebox=\box29
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/courier.sty
+Package: courier 2005/04/12 PSNFSS-v9.2a (WaS) 
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/lipsum/lipsum.sty
+Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count112
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+\c@homeworkProblemCounter=\count113
+
+(./deepnn.aux
+
+LaTeX Warning: Label `fig:sfig4' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sfig4' multiply defined.
+
+
+LaTeX Warning: Label `fig:sfig5' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sfig5' multiply defined.
+
+
+LaTeX Warning: Label `fig:sfig6' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sfig6' multiply defined.
+
+
+LaTeX Warning: Label `fig:sfig6' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sfig6' multiply defined.
+
+
+LaTeX Warning: Label `fig:sfig3' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sfig3' multiply defined.
+
+
+LaTeX Warning: Label `fig:sfig3' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sfig3' multiply defined.
+
+)
+\openout1 = `deepnn.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 174.
+LaTeX Font Info:    ... okay on input line 174.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 174.
+LaTeX Font Info:    ... okay on input line 174.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 174.
+LaTeX Font Info:    ... okay on input line 174.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 174.
+LaTeX Font Info:    ... okay on input line 174.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 174.
+LaTeX Font Info:    ... okay on input line 174.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 174.
+LaTeX Font Info:    ... okay on input line 174.
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 174.
+ (/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count114
+\scratchdimen=\dimen126
+\scratchbox=\box30
+\nofMPsegments=\count115
+\nofMParguments=\count116
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count117
+\MPscratchDim=\dimen127
+\MPnumerator=\count118
+\makeMPintoPDFobject=\count119
+\everyMPtoPDFconversion=\toks23
+) (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count120
+
+[1
+
+{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 182.
+
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 182.
+
+Overfull \hbox (21.48589pt too wide) in paragraph at lines 204--205
+\OT1/cmr/bx/n/10 Note on La-TeX re-port: \OT1/cmr/m/n/10 Along with \OT1/cmr/m/
+it/10 deepnn.tex \OT1/cmr/m/n/10 and \OT1/cmr/m/it/10 deepnn.pdf\OT1/cmr/m/n/10
+ , I sub-mit-ted a zip file called \OT1/cmr/m/it/10 full[]report[]folder.zip\OT
+1/cmr/m/n/10 .
+ []
+
+[2
+
+] <part1.png, id=16, 578.16pt x 433.62pt>
+File: part1.png Graphic file (type png)
+ <use part1.png>
+Package pdftex.def Info: part1.png used on input line 237.
+(pdftex.def)             Requested size: 446.2658pt x 334.69565pt.
+ [3
+
+ <./part1.png>]
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 246.
+
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 248.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 259--261
+
+ []
+
+[4
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 309--311
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 316--318
+
+ []
+
+<part4_img_0.png, id=35, 20.2356pt x 20.2356pt>
+File: part4_img_0.png Graphic file (type png)
+ <use part4_img_0.png>
+Package pdftex.def Info: part4_img_0.png used on input line 350.
+(pdftex.def)             Requested size: 54.25793pt x 54.26103pt.
+
+<part4_img_1.png, id=36, 20.2356pt x 20.2356pt>
+File: part4_img_1.png Graphic file (type png)
+ <use part4_img_1.png>
+Package pdftex.def Info: part4_img_1.png used on input line 357.
+(pdftex.def)             Requested size: 54.25793pt x 54.26103pt.
+
+<part4_img_2.png, id=37, 20.2356pt x 20.2356pt>
+File: part4_img_2.png Graphic file (type png)
+ <use part4_img_2.png>
+Package pdftex.def Info: part4_img_2.png used on input line 364.
+(pdftex.def)             Requested size: 54.25793pt x 54.26103pt.
+
+<part4_img_3.png, id=38, 20.2356pt x 20.2356pt>
+File: part4_img_3.png Graphic file (type png)
+ <use part4_img_3.png>
+Package pdftex.def Info: part4_img_3.png used on input line 371.
+(pdftex.def)             Requested size: 54.25793pt x 54.26103pt.
+
+<part4_img_4.png, id=39, 20.2356pt x 20.2356pt>
+File: part4_img_4.png Graphic file (type png)
+ <use part4_img_4.png>
+Package pdftex.def Info: part4_img_4.png used on input line 378.
+(pdftex.def)             Requested size: 54.25793pt x 54.26103pt.
+
+<part4_img_5.png, id=40, 20.2356pt x 20.2356pt>
+File: part4_img_5.png Graphic file (type png)
+ <use part4_img_5.png>
+Package pdftex.def Info: part4_img_5.png used on input line 385.
+(pdftex.def)             Requested size: 54.25793pt x 54.26103pt.
+
+<part4_img_6.png, id=41, 20.2356pt x 20.2356pt>
+File: part4_img_6.png Graphic file (type png)
+ <use part4_img_6.png>
+Package pdftex.def Info: part4_img_6.png used on input line 392.
+(pdftex.def)             Requested size: 54.25793pt x 54.26103pt.
+
+<part4_img_7.png, id=42, 20.2356pt x 20.2356pt>
+File: part4_img_7.png Graphic file (type png)
+ <use part4_img_7.png>
+Package pdftex.def Info: part4_img_7.png used on input line 399.
+(pdftex.def)             Requested size: 54.25793pt x 54.26103pt.
+
+<part4_img_8.png, id=43, 20.2356pt x 20.2356pt>
+File: part4_img_8.png Graphic file (type png)
+ <use part4_img_8.png>
+Package pdftex.def Info: part4_img_8.png used on input line 406.
+(pdftex.def)             Requested size: 54.25793pt x 54.26103pt.
+
+<part4_img_9.png, id=44, 20.2356pt x 20.2356pt>
+File: part4_img_9.png Graphic file (type png)
+ <use part4_img_9.png>
+Package pdftex.def Info: part4_img_9.png used on input line 413.
+(pdftex.def)             Requested size: 54.25793pt x 54.26103pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--420
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--420
+
+ []
+
+[5] [6 <./part4_img_0.png> <./part4_img_1.png> <./part4_img_2.png> <./part4_img
+_3.png> <./part4_img_4.png> <./part4_img_5.png> <./part4_img_6.png> <./part4_im
+g_7.png> <./part4_img_8.png> <./part4_img_9.png>]
+<part4_plot.png, id=62, 953.2413pt x 273.1806pt>
+File: part4_plot.png Graphic file (type png)
+ <use part4_plot.png>
+Package pdftex.def Info: part4_plot.png used on input line 424.
+(pdftex.def)             Requested size: 422.77661pt x 121.15855pt.
+ [7
+
+ <./part4_plot.png>] [8] [9] [10]
+Underfull \hbox (badness 10000) in paragraph at lines 595--604
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 610--611
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 617--619
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 620--621
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 627--628
+
+ []
+
+[11
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 634--636
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 637--638
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 649--652
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 663--666
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 679--680
+
+ []
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 681--682
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 683--684
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 685--687
+
+ []
+
+<p6evidence.png, id=83, 514.92375pt x 221.82875pt>
+File: p6evidence.png Graphic file (type png)
+ <use p6evidence.png>
+Package pdftex.def Info: p6evidence.png used on input line 690.
+(pdftex.def)             Requested size: 375.80542pt x 161.89977pt.
+
+[13 <./p6evidence.png>] <p7_drescher122.jpg, id=89, 260.172pt x 390.64865pt>
+File: p7_drescher122.jpg Graphic file (type jpg)
+
+<use p7_drescher122.jpg>
+Package pdftex.def Info: p7_drescher122.jpg used on input line 706.
+(pdftex.def)             Requested size: 57.54698pt x 86.4079pt.
+ <pp7_drescher122.jpg, id=90, 32.12pt x 32.12pt>
+File: pp7_drescher122.jpg Graphic file (type jpg)
+
+<use pp7_drescher122.jpg>
+Package pdftex.def Info: pp7_drescher122.jpg used on input line 713.
+(pdftex.def)             Requested size: 75.1585pt x 75.16437pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 701--721
+
+ []
+
+<p7_drescher5.jpg, id=91, 3011.25pt x 2007.5pt>
+File: p7_drescher5.jpg Graphic file (type jpg)
+ <use p7_drescher5.jpg>
+Package pdftex.def Info: p7_drescher5.jpg used on input line 726.
+(pdftex.def)             Requested size: 75.1585pt x 50.08322pt.
+
+<pp7_drescher5.jpg, id=92, 32.12pt x 32.12pt>
+File: pp7_drescher5.jpg Graphic file (type jpg)
+ <use pp7_drescher5.jpg>
+Package pdftex.def Info: pp7_drescher5.jpg used on input line 732.
+(pdftex.def)             Requested size: 57.54698pt x 57.55174pt.
+
+<p7_ferrera165.jpg, id=93, 223.83624pt x 301.125pt>
+File: p7_ferrera165.jpg Graphic file (type jpg)
+ <use p7_ferrera165.jpg>
+Package pdftex.def Info: p7_ferrera165.jpg used on input line 744.
+(pdftex.def)             Requested size: 57.54698pt x 77.41763pt.
+
+<pp7_ferrera165.jpg, id=94, 32.12pt x 32.12pt>
+File: pp7_ferrera165.jpg Graphic file (type jpg)
+ <use pp7_ferrera165.jpg>
+Package pdftex.def Info: pp7_ferrera165.jpg used on input line 750.
+(pdftex.def)             Requested size: 57.54698pt x 57.55174pt.
+
+[14
+
+ <./p7_drescher122.jpg> <./pp7_drescher122.jpg> <./p7_drescher5.jpg> <./pp7_dre
+scher5.jpg> <./p7_ferrera165.jpg> <./pp7_ferrera165.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 758--764
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 758--764
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 758--764
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 770--772
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 778--779
+
+ []
+
+[15
+
+] <plot_part7_best.png, id=101, 508.7808pt x 223.3143pt>
+File: plot_part7_best.png Graphic file (type png)
+
+<use plot_part7_best.png>
+Package pdftex.def Info: plot_part7_best.png used on input line 783.
+(pdftex.def)             Requested size: 422.77661pt x 185.5757pt.
+
+<plot_part7_underfitting.png, id=102, 506.6127pt x 231.9867pt>
+File: plot_part7_underfitting.png Graphic file (type png)
+
+<use plot_part7_underfitting.png>
+Package pdftex.def Info: plot_part7_underfitting.png used on input line 791.
+(pdftex.def)             Requested size: 422.77661pt x 193.60022pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 780--796
+
+ []
+
+[16
+
+ <./plot_part7_best.png> <./plot_part7_underfitting.png>]
+Overfull \hbox (21.65001pt too wide) in paragraph at lines 816--817
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[17
+
+] [18]
+Underfull \hbox (badness 10000) in paragraph at lines 863--866
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 863--866
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 904--906
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 904--906
+
+ []
+
+<part9_img1.png, id=114, 46.2528pt x 46.2528pt>
+File: part9_img1.png Graphic file (type png)
+ <use part9_img1.png>
+Package pdftex.def Info: part9_img1.png used on input line 911.
+(pdftex.def)             Requested size: 142.10245pt x 142.11041pt.
+
+<part9_img2.png, id=115, 46.2528pt x 46.2528pt>
+File: part9_img2.png Graphic file (type png)
+ <use part9_img2.png>
+Package pdftex.def Info: part9_img2.png used on input line 917.
+(pdftex.def)             Requested size: 142.10245pt x 142.11041pt.
+
+<part9_img5.png, id=116, 46.2528pt x 46.2528pt>
+File: part9_img5.png Graphic file (type png)
+ <use part9_img5.png>
+Package pdftex.def Info: part9_img5.png used on input line 923.
+(pdftex.def)             Requested size: 142.10245pt x 142.11041pt.
+ [19
+
+]
+[20 <./part9_img1.png> <./part9_img2.png> <./part9_img5.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 938--939
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 940--942
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 943--945
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 946--948
+
+ []
+
+<plot_part10.png, id=127, 510.9489pt x 227.6505pt>
+File: plot_part10.png Graphic file (type png)
+ <use plot_part10.png>
+Package pdftex.def Info: plot_part10.png used on input line 952.
+(pdftex.def)             Requested size: 422.77661pt x 188.36627pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 957--959
+
+ []
+
+[21
+
+ <./plot_part10.png>] 
+AED: lastpage setting LastPage
+(./deepnn.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 6157 strings out of 493014
+ 90017 string characters out of 6133351
+ 326529 words of memory out of 5000000
+ 9583 multiletter control sequences out of 15000+600000
+ 11888 words of font info for 42 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,17n,43p,912b,1722s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/te
+xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/tex
+live/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/texli
+ve/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texliv
+e/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive
+/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2
+016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/201
+6/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2016/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2016/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2016/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2016/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2016/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/texlive/2016/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2016/texmf-dist/font
+s/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2016/texmf-dist/fonts
+/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/u
+rw/courier/ucrro8a.pfb>
+Output written on deepnn.pdf (21 pages, 1198627 bytes).
+PDF statistics:
+ 191 PDF objects out of 1000 (max. 8388607)
+ 104 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 126 words of extra memory for PDF output out of 10000 (max. 10000000)
+
